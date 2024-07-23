@@ -1,0 +1,4 @@
+alias.co=checkout
+alias.ci=commit
+alias.st=status
+alias.lo='log --graph --oneline'
